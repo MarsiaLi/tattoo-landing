@@ -1,2 +1,4 @@
 .idea/
-src/public/assets/css/main.css.map
+.firebaserc
+firebase.json
+public/assets/css/main.css.map
