@@ -1,0 +1,12 @@
+{
+  "name": "tattoomasterlanding",
+  "version": "0.1.0",
+  "description": "Tattoo Master landing page",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "MarsiaLi",
+  "license": "ISC"
+}
